@@ -20,3 +20,11 @@ dimwishlist:item=2763843898&perks=3824105627,4049631843
 dimwishlist:item=2763843898&perks=3824105627,4104185692
 
 
+// Luna's Howl (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2763843899&perks=1840239774,3230963543,3017780555,4293542123
+
+
+// Luna's Howl (pve)
+//notes: tags:pve
+dimwishlist:item=2763843899&perks=3017780555,4293542123
